@@ -14,7 +14,7 @@ Intention was to adjust kerning and line spacing, unfortunately this doesn't wor
 The font file to be used in e.g. Windows.
 This file has been created by fontforge.
 
-## F16_test-panel-odg
+## F16_test-panel.odg
 Testing the font libreoffice paint, picture of the test panel is from Falcon BMS documentation scaled to 1:1.
 
 License: All files are under the SIL license.
