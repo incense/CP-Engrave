@@ -18,6 +18,7 @@ This file has been created by fontforge.
 Testing the font libreoffice paint, picture of the test panel is from Falcon BMS documentation.
 
 License: All files are under the SIL license.
+https://openfontlicense.org/
 
 Have fun!
 
