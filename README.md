@@ -17,6 +17,10 @@ This file has been created by fontforge.
 ## F16_test-panel.odg
 Testing the font libreoffice paint, picture of the test panel is from Falcon BMS documentation scaled to 1:1.
 
+## sample.png
+Sample picture, yellow fonts are CP Engrave fonts.
+Line spacing was set to 60%.
+
 License: All files are under the SIL license.
 https://openfontlicense.org/
 
