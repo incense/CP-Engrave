@@ -1,5 +1,5 @@
 Copyright (c) 2024, Rolf Weihrauch,  
-with Reserved Font Name CP Engrave.
+with Reserved Font Name "CP Engrave".
 &nbsp;
 
 
