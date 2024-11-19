@@ -1,5 +1,5 @@
-Copyright (c) _\<dates\>_, _\<Copyright Holder\> (\<URL|email\>)_,  
-with Reserved Font Name _\<Reserved Font Name\>_.
+Copyright (c) 2024, Rolf Weihrauch,  
+with Reserved Font Name CP Engrave.
 
 Copyright (c) _\<dates\>_, _\<additional Copyright Holder\> (\<URL|email\>)_,  
 with Reserved Font Name _\<additional Reserved Font Name\>_.
